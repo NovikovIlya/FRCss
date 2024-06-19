@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import logo from './assets/image-equilibrium.jpg'
 import ava from './assets/image-avatar.png'
 import './App.css'
